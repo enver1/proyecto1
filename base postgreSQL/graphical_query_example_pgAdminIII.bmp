@@ -1,0 +1,5 @@
+﻿SELECT 
+  alumnos.alu_codigo AS ide, 
+  alumnos.alu_cedula
+FROM 
+  public.alumnos;
